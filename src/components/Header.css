@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    display: flex;
+}
+
+.header {
+    color: white; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white; 
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline; 
+}
+
+.divIcons {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.home {
+    background-color: #1E1E1E;
+    border-radius: 100%;
+    padding: 20px;
+}
+
+.home:hover {
+    cursor: pointer;
+    background-color: #505050;
+}
+
+img {
+    width: 50px;
+    position: fixed;
+    top: 0;
+    margin-top: 100px;
+}
