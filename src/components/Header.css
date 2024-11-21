@@ -3,6 +3,8 @@ body{
     display: flex;
 }
 
+
+
 .header {
     color: white; 
     display: flex;
@@ -43,9 +45,25 @@ nav a:hover {
     background-color: #505050;
 }
 
-img {
+.Logo {
     width: 50px;
     position: fixed;
     top: 0;
     margin-top: 100px;
+}
+
+@media (max-width: 390px) {
+    .paiHeader {
+        display: none;
+    }
+    
+    .divIcons {
+        display: flex;
+        flex-direction: row;
+        gap: 35px;
+    }
+    
+    .Logo {
+        display: none;
+    }
 }

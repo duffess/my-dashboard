@@ -1,0 +1,83 @@
+[
+  {
+    "nome": "teste",
+    "cpf": "17791690780",
+    "password": "teste",
+    "endereco": "teste",
+    "veiculo": "Nissan Sentra",
+    "plano": "basico",
+    "carImage": "https://images.unsplash.com/photo-1611088135647-aa5eb1b5f390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzE5OTR8MHwxfHNlYXJjaHwxfHxOaXNzYW4lMjBTZW50cmF8ZW58MHx8fHwxNzMxNDQzOTc0fDA&ixlib=rb-4.0.3&q=80&w=400"
+  },
+  {
+    "nome": "teste2",
+    "cpf": "17791690780",
+    "password": "teste2",
+    "endereco": "teste2",
+    "veiculo": "Toyota",
+    "plano": "premium",
+    "carImage": "https://images.unsplash.com/photo-1675908375156-bc50173f159d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzE5OTR8MHwxfHNlYXJjaHwxfHxUb3lvdGF8ZW58MHx8fHwxNzMxNDQ0MTIyfDA&ixlib=rb-4.0.3&q=80&w=400"
+  },
+  {
+    "nome": "asdasd",
+    "cpf": "asdasd",
+    "password": "asdasd",
+    "endereco": "asdasd",
+    "veiculo": "asdasd",
+    "plano": "basico",
+    "carImage": ""
+  },
+  {
+    "nome": "Guilherme Duffes",
+    "cpf": "17791690780",
+    "password": "123123123",
+    "endereco": "Rubens reis sales, 386",
+    "veiculo": "Celta",
+    "plano": "basico",
+    "carImage": ""
+  },
+  {
+    "nome": "asdasdasda",
+    "cpf": "sasdasd",
+    "password": "asdasd",
+    "endereco": "asdasd",
+    "veiculo": "Toyota",
+    "plano": "premium",
+    "carImage": "https://images.unsplash.com/photo-1675908375156-bc50173f159d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzE5OTR8MHwxfHNlYXJjaHwxfHxUb3lvdGF8ZW58MHx8fHwxNzMxNDQ0MTIyfDA&ixlib=rb-4.0.3&q=80&w=400"
+  },
+  {
+    "nome": "Guilherme Duffes",
+    "cpf": "17791690780",
+    "password": "guigui123",
+    "endereco": "Rubens reis sales, 386",
+    "veiculo": "Nissan Sentra",
+    "plano": "premium",
+    "carImage": "https://images.unsplash.com/photo-1611088135647-aa5eb1b5f390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzE5OTR8MHwxfHNlYXJjaHwxfHxOaXNzYW4lMjBTZW50cmF8ZW58MHx8fHwxNzMxNDQzOTc0fDA&ixlib=rb-4.0.3&q=80&w=400"
+  },
+  {
+    "nome": "Guilherme Duffes",
+    "cpf": "17791690780",
+    "password": "123123",
+    "endereco": "Rubens reis sales, 386",
+    "veiculo": "Nissan Sentra",
+    "plano": "premium",
+    "carImage": "https://images.unsplash.com/photo-1611088135647-aa5eb1b5f390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzE5OTR8MHwxfHNlYXJjaHwxfHxOaXNzYW4lMjBTZW50cmF8ZW58MHx8fHwxNzMxNDQzOTc0fDA&ixlib=rb-4.0.3&q=80&w=400"
+  },
+  {
+    "nome": "bernardo",
+    "cpf": "17791690780",
+    "password": "bernardo123",
+    "endereco": "Rua mena barreto, 456",
+    "veiculo": "Fiat Uno",
+    "plano": "basico",
+    "carImage": "https://images.unsplash.com/photo-1672519651062-170dd2d699b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzE5OTR8MHwxfHNlYXJjaHwxfHxGaWF0JTIwVW5vfGVufDB8fHx8MTczMTQ0NTAxMHww&ixlib=rb-4.0.3&q=80&w=400"
+  },
+  {
+    "nome": "Guilherme Duffes",
+    "cpf": "23123123",
+    "password": "2323232",
+    "endereco": "Rua Padre Telemaco, 5. Bloco A - AP 401",
+    "veiculo": "Nissan Sentra",
+    "plano": "basico",
+    "carImage": "https://images.unsplash.com/photo-1611088135647-aa5eb1b5f390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NzE5OTR8MHwxfHNlYXJjaHwxfHxOaXNzYW4lMjBTZW50cmF8ZW58MHx8fHwxNzMxODg2MzM0fDA&ixlib=rb-4.0.3&q=80&w=400"
+  }
+]

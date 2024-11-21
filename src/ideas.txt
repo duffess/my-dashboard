@@ -1,0 +1,27 @@
+TP1: Defina o projeto e seu escopo, detalhe o uso de Scrum, elabore o cronograma, escreva duas histórias de usuário (funcionais e não funcionais), e planeje as principais interações na aplicação web/mobile. ( FEITO )
+
+TP2: Desenvolva a primeira versão single-page da aplicação em React, com componentes dinâmicos e responsivos, priorizando a abordagem Mobile-First e a criação de estilos otimizados para dispositivos móveis. ( FEITO )
+
+TP3: Revise as histórias de usuário com os feedbacks recebidos, adicione uma segunda página, conecte a aplicação a uma API pública para atualização de dados e crie um backlog de próximas atividades. ( FEITO )
+
+TP4: Implemente mudanças de requisitos , como o menu de navegação e gestures para a versão mobile. Atualize o backlog e inicie os testes com a React Testing Library.
+
+TP5: Desenvolva um sistema de autenticação ( FEITO ) , ( Não irei fazer ) integre um recurso de dispositivo (como câmera) e trate diferenças entre iOS e Android para a versão mobile.
+
+AT (Apresentação e Entrega): Reúna todos os artefatos e código final, e prepare-se para a apresentação ao vivo do projeto com todas as funcionalidades completas e feedbacks integrados.
+
+
+BACKLOG TP3 - ( ATÉ O ATUAL MOMENTO )
+1. História de usuario continua a mesma.
+
+2. Segunda página ( de contato ) já está sendo feita.
+
+3. Conexão com API feita.
+
+4. Ajuste de design sendo feito, versão mobile 90% pronto, só ajeitar os ícones.
+
+5. Testes de funcionalidades e correção de bugs não feitos ( React Testing Library ).
+
+6. Documentação pronta.
+
+7. Planejamento de novas funcionalidades em andamento.

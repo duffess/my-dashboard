@@ -4,7 +4,6 @@ export const AppContext = createContext();
 
 export const AppProvider = ({ children }) => {
     const [formData, setFormData] = useState({});
-
     return (
         <AppContext.Provider value={{ formData, setFormData }}>
             {children}
