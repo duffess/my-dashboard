@@ -9,6 +9,6 @@ test('deve renderizar o título do Dashboard', () => {
 
 test('deve renderizar os cards de informações', () => {
   render(<Dashboard />);
-  const cards = screen.getAllByRole('article'); // Se os cards estiverem em artigos
+  const cards = screen.getAllByRole('article'); 
   expect(cards.length).toBeGreaterThan(0);
 });
